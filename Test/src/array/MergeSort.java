@@ -37,7 +37,9 @@ public class MergeSort {
 		
 		mergeSort(p1);
 		mergeSort(p2);
+		System.out.println("array seperation done");
 		
 	}
+		
 	
 }
